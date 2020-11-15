@@ -1,1 +1,5 @@
 # Twitter-Sentiment-Analysis-using-LSTM
+
+Analysis of sentiments is an approach which is widely used in text mining. Twitter Sentiment Analysis means, usage of Modern text mining routines to examine the sentiment of the tweets whether they are negative, positive or neutral. It is also termed as Opinion Mining and its primary use is to analyze discussions, opinions and share perspectives as tweets (in case of Twitter Sentiment Analysis). Sentiment Analysis is preferably used to decide business plans of action, political analysis, and even to assess society’s reactions. 
+
+LSTM: It is abbreviated as Long Short-Term Memory [11]. This is basically a Recurrent Neutral Network deep-learning technique along with some added features for making the analysis of the sentiment data much easier and concise. It is basically designed to model the sequential and time collection records as it can seize long term dependency it also outperforms different normally used forecasters when forecasting real-time demands.
